@@ -1,16 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Big money in the entertainment world.
+image: /img/zrzut-ekranu-z-2019-09-12-21-30-41.png
+heading: 'How to properly manage the infrastructure, time and the whole e-world?'
+subheading: 'It''s not just playing and having fun that lives on. '
 mainpitch:
-  title: Why Kaldi
+  title: Why is it worth signing up to InstaGold club ?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    In the coming decades we see a growing trend of people who want to use
+    financial resources as a means of exploiting them in the entertainment
+    market.
+
+
+    We strive to provide players, trainers and institutions with a much better
+    payment system, while making them leaders in their respective areas.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -18,26 +21,25 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+    - image: /img/zrzut-ekranu-z-2019-09-12-21-31-16.png
+      text: >-
+        CREATE YOUR OWN ORGANIZATION FOR THE BLOCKADE
+
+
+        InstaGold's teams have their own certification digitally stored in the
+        blockchain.
+    - image: /img/zrzut-ekranu-z-2019-09-12-21-29-04.png
+      text: >-
+        SEND AND EXCHANGE INSTAGOLDS ALL OVER THE WORLD.
+
+
+        InstaGold is also a coin used by everyone in the community. It involves
+        a lot of bonuses. 
+
+        Get to know the benefits behind it. InstaGold is built on a global
+        decentralized exchange of assets, so your achievements can be exchanged
+        for any currency on the web. Payments are immediate and last five
+        seconds or less
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -45,22 +47,21 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: SIGN UP FOR THE INSTAGOLDA NEWSLETTER
+  description: ' maintains you will be notified as soon as the right and proper opportunity appears on the horizon. '
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: >-
+    InstaGold's team takes care of everyone in the ecosystem and therefore
+    operates on a franchise basis cooperating with institutions associated with
+    strict standards of transparency and safety.
+
+
+    Together with https://kotaku.com and https://liquipedia.net/ we increase the
+    sense of security in the faithfulness of all business contracts.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Big Esports Money coming
+    image: /img/zrzut-ekranu-z-2019-09-12-21-29-26.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
@@ -68,3 +69,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
