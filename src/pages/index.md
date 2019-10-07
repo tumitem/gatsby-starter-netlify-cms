@@ -15,15 +15,15 @@ mainpitch:
     We strive to provide players, trainers and institutions with a much better
     payment system, while making them leaders in their respective areas.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We care about transparency of joining our societies by comparing profiles and
+  degree of reliability. We take into account all player portals such
+  ashttps://www.hltv.org/  , https://www.mobafire.com, https://esporttalk.org/ /
 intro:
   blurbs:
     - image: /img/zrzut-ekranu-z-2019-09-12-21-31-16.png
       text: >-
-        CREATE YOUR OWN ORGANIZATION FOR THE BLOCKADE
+        CREATE YOUR OWN ORGANIZATION ON BLOKCHAIN
+
 
 
         InstaGold's teams have their own certification digitally stored in the
@@ -33,6 +33,7 @@ intro:
         SEND AND EXCHANGE INSTAGOLDS ALL OVER THE WORLD.
 
 
+
         InstaGold is also a coin used by everyone in the community. It involves
         a lot of bonuses. 
 
@@ -40,14 +41,7 @@ intro:
         decentralized exchange of assets, so your achievements can be exchanged
         for any currency on the web. Payments are immediate and last five
         seconds or less
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: SIGN UP FOR THE INSTAGOLDA NEWSLETTER
+  heading: SIGN UP FOR THE INSTAGOLD NEWSLETTER
   description: ' maintains you will be notified as soon as the right and proper opportunity appears on the horizon. '
 main:
   heading: Great coffee with no compromises
