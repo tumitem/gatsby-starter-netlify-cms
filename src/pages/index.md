@@ -16,8 +16,8 @@ mainpitch:
     payment system, while making them leaders in their respective areas.
 description: >-
   We care about transparency of joining our societies by comparing profiles and
-  degree of reliability. We take into account all player portals such
-  ashttps://www.hltv.org/  , https://www.mobafire.com, https://esporttalk.org/ /
+  degree of reliability. We take into account all player portals such as
+  https://www.hltv.org, https://www.mobafire.com, https://esporttalk.org
 intro:
   blurbs:
     - image: /img/zrzut-ekranu-z-2019-09-12-21-31-16.png
