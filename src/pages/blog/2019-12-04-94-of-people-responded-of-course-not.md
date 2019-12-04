@@ -3,7 +3,7 @@ templateKey: blog-post
 title: '94% of people responded: "Of course not.'
 date: 2019-11-27T06:58:13.482Z
 description: '"Is it possible to smoke cigarettes while praying?'
-featuredpost: false
+featuredpost: true
 featuredimage: /img/zrzut-ekranu-z-2019-10-04-09-41-55.png
 tags:
   - keep it
