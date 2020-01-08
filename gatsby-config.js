@@ -76,13 +76,7 @@ module.exports = {
   ],
   
   
-  
-  
-  
-  
-}
-
-{
+  {
 resolve: `gatsby-transformer-remark`,
 options: {
 plugins: [
@@ -95,3 +89,9 @@ pathFields: ["cover"],
 ]
 }
 }
+
+  
+  
+  
+}
+
