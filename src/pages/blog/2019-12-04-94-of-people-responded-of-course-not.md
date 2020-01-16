@@ -4,7 +4,7 @@ title: '94% of people responded: "Of course not.'
 date: 2019-11-27T06:58:13.482Z
 description: '"Is it possible to smoke cigarettes while praying?'
 featuredpost: true
-featuredimage: /img/img_20190819_201745.jpg
+featuredimage: false
 tags:
   - keep it
   - expert know-how
