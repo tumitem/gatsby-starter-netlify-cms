@@ -4,7 +4,7 @@ title: My client's daily rituals
 date: 2017-01-04T15:04:10.000Z
 description: What ritual fits my product? What does my customer do with my product?
 featuredpost: true
-featuredimage: /img/zrzut-ekranu-z-2019-10-01-13-39-20.png
+featuredimage: false
 tags:
   - help
   - partners
