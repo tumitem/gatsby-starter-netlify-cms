@@ -80,12 +80,14 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
-       
+              </div>
           </div>
         </div>
       </div>
     </section>
   </div>
+ 
+
 )
 
 ProductPageTemplate.propTypes = {
