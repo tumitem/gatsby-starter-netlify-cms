@@ -14,7 +14,7 @@ export const ProductPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
+  
   fullImage,
   pricing,
 }) => (
