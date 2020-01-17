@@ -1,6 +1,7 @@
 ---
 templateKey: about-page
-title: About our methods
+path: /about
+title: About our working methods
 ---
 
 
