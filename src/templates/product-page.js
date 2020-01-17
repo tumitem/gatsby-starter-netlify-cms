@@ -106,11 +106,7 @@ ProductPageTemplate.propTypes = {
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   
-  pricing: PropTypes.shape({
-    heading: PropTypes.string,
-    description: PropTypes.string,
-    plans: PropTypes.array,
-  }),
+
 }
 
 const ProductPage = ({ data }) => {
@@ -127,7 +123,7 @@ const ProductPage = ({ data }) => {
         main={frontmatter.main}
        
         
-        pricing={frontmatter.pricing}
+    
       />
     </Layout>
   )
@@ -201,16 +197,7 @@ export const productPageQuery = graphql`
         }
 
        
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
+        
       }
     }
   }
