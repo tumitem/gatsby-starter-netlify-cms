@@ -16,7 +16,7 @@ export const ProductPageTemplate = ({
   main,
   
  
-  pricing,
+
 }) => (
   <div className="content">
     <div
